@@ -18,6 +18,7 @@ span:hover, .entrevista{
 
 .card{
     margin-top: 2rem;
+    padding: 0;
     background: #000000;
     box-shadow: 0 0 1em rgb(188, 154, 250);
     border-radius: 30px;
