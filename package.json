@@ -1,0 +1,13 @@
+{
+  "name": "entrevista-en-ingles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --open=browser"
+  },
+  "keywords": [],
+  "author": "JimsimroDev",
+  "license": "ISC",
+  "description": "preguntas y respuesta en ingles para una entrevista-en-ingles"
+}
